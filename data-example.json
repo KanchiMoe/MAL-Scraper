@@ -1,0 +1,128 @@
+{
+    "MAL ID": "6547",
+    "titles": {
+        "main": "Angel Beats!",
+        "secondary": "",
+        "alternative": {
+            "english": [
+                "Angel Beats!"
+            ],
+            "synonyms": [
+            ],
+            "japanese": [
+                "Angel Beats!（エンジェルビーツ）"
+            ]
+        }
+    },
+    "information": {
+        "type": "TV",
+        "episodes": "13",
+        "status": "finished airing",
+        "aired": "Apr 3, 2010 to Jun 26, 2010",
+        "premiered": {
+            "season": "spring 2010",
+            "link": "/anime/season/2010/spring"
+        },
+        "broadcast": "unknown",
+        "producers": [
+            {
+                "name": "Aniplex",
+                "id": "17"
+            },
+            {
+                "name": "Dentsu",
+                "id": "53"
+            },
+            {
+                "name": "Mainichi Broadcasting System",
+                "id": "143"
+            },
+            {
+                "name": "CBC Television",
+                "id": "146"
+            },
+            {
+                "name": "Movic",
+                "id": "166"
+            },
+            {
+                "name": "Visual Arts",
+                "id": "203"
+            },
+            {
+                "name": "ASCII Media Works",
+                "id": "681"
+            }
+
+        ],
+        "licensors": [
+            {
+                "name": "Sentai Filmworks",
+                "id": "376"
+            },
+            {
+                "name": "Aniplex of America",
+                "id": "493"
+            }
+        ],
+        "studios": [
+            {
+                "name": "P.A. Works",
+                "id": "132"
+            }
+        ],
+        "source": "original",
+        "genres": [
+            {
+                "name": "Action",
+                "id": "1"
+            },
+            {
+                "name": "Comedy",
+                "id": "4"
+            },
+            {
+                "name": "Drama",
+                "id": "8"
+            },
+            {
+                "name": "School",
+                "id": "23"
+            },
+            {
+                "name": "Supernatural",
+                "id": "37"
+            }
+        ]
+    },
+    "statistics": {
+        "scores": {
+            "1": "2836",
+            "2": "3107",
+            "3": "6621", 
+            "4": "16024", 
+            "5": "35392", 
+            "6": "77409", 
+            "7": "190245",
+            "8": "291776",
+            "9": "260665", 
+            "10": "211741"
+        },
+        "watch": {
+            "watching": "61451",
+            "completed": "1341085",
+            "on-hold": "38032",
+            "dropped": "43244",
+            "plan to watch": "266581",
+            "total": "1750393"
+        },
+        "ranking": {
+            "score": "8.11",
+            "users": "1069949",
+            "ranked": "407",
+            "popularity": "19",
+            "members": "1750393",
+            "favorites": "44136"
+        }
+    }
+}
